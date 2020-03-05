@@ -1,0 +1,15 @@
+.app{
+    display: flex;
+}
+
+table{
+    margin: auto;
+}
+
+td {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 50px;
+}
